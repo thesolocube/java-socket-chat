@@ -1,0 +1,62 @@
+[2025-12-30 11:08:21] ? Serveur démarré sur le port 55555
+[2025-12-30 11:08:56] ? Connexion : atlas depuis 192.168.230.1
+[2025-12-30 11:08:56] ? Nouvelle connexion depuis 192.168.230.1 (Clients connectés : 1)
+[2025-12-30 11:09:28] ? Nouvelle connexion depuis 192.168.230.1 (Clients connectés : 2)
+[2025-12-30 11:09:28] [ERROR] Tentative de connexion avec un pseudo déjà utilisé : atlas
+[2025-12-30 11:09:28] ? Client déconnecté (Clients connectés : 1)
+[2025-12-30 11:10:11] ? Nouvelle connexion depuis 192.168.230.1 (Clients connectés : 2)
+[2025-12-30 11:10:11] ? Connexion : sami depuis 192.168.230.1
+[2025-12-30 11:10:27] ? Déconnexion : sami
+[2025-12-30 11:10:27] ? Client déconnecté (Clients connectés : 1)
+[2025-12-30 11:10:30] ? Déconnexion : atlas
+[2025-12-30 11:10:30] ? Client déconnecté (Clients connectés : 0)
+[2025-12-30 11:20:30] ? Serveur démarré sur le port 55555
+[2025-12-30 11:20:45] ? Connexion : atlas depuis 192.168.230.1
+[2025-12-30 11:20:45] ? Nouvelle connexion depuis 192.168.230.1 (Clients connectés : 1)
+[2025-12-30 11:21:34] ? Nouvelle connexion depuis 192.168.230.1 (Clients connectés : 2)
+[2025-12-30 11:21:34] ? Connexion : sami depuis 192.168.230.1
+[2025-12-30 12:06:34] [ERROR] Erreur avec le client sami : Software caused connection abort: recv failed
+[2025-12-30 12:06:34] [ERROR] Erreur avec le client atlas : Software caused connection abort: recv failed
+[2025-12-30 12:06:34] ? Déconnexion : sami
+[2025-12-30 12:06:34] ? Déconnexion : atlas
+[2025-12-30 12:06:34] ? Client déconnecté (Clients connectés : 1)
+[2025-12-30 12:06:34] ? Client déconnecté (Clients connectés : 0)
+[2026-01-03 15:00:14] [ERROR] Impossible de démarrer le serveur : Address already in use: NET_Bind
+[2026-01-03 15:00:14] ? Serveur arrêté
+[2026-01-03 15:00:37] ? Serveur démarré sur le port 55555
+[2026-01-03 15:01:01] ? Connexion : atlas depuis 192.168.230.1
+[2026-01-03 15:01:01] ? Nouvelle connexion depuis 192.168.230.1 (Clients connectés : 1)
+[2026-01-03 15:01:49] ? Nouvelle connexion depuis 192.168.230.1 (Clients connectés : 2)
+[2026-01-03 15:01:49] ? Connexion : sami depuis 192.168.230.1
+[2026-01-03 15:05:06] ? Déconnexion : sami
+[2026-01-03 15:05:06] ? Client déconnecté (Clients connectés : 1)
+[2026-01-03 15:05:07] ? Déconnexion : atlas
+[2026-01-03 15:05:07] ? Client déconnecté (Clients connectés : 0)
+[2026-01-03 16:35:21] ? Serveur démarré sur le port 55555
+[2026-01-03 16:35:56] ? Connexion : atlas depuis 192.168.230.1
+[2026-01-03 16:35:56] ? Nouvelle connexion depuis 192.168.230.1 (Clients connectés : 1)
+[2026-01-03 16:36:23] ? Nouvelle connexion depuis 192.168.230.1 (Clients connectés : 2)
+[2026-01-03 16:36:23] ? Connexion : sami depuis 192.168.230.1
+[2026-01-03 16:57:30] ? Nouvelle connexion depuis 127.0.0.1 (Clients connectés : 3)
+[2026-01-03 16:57:30] ? Connexion : lol depuis 127.0.0.1
+[2026-01-03 16:57:38] ? Déconnexion : lol
+[2026-01-03 16:57:38] ? Client déconnecté (Clients connectés : 2)
+[2026-01-03 16:58:20] ? Nouvelle connexion depuis 192.168.230.1 (Clients connectés : 3)
+[2026-01-03 16:58:20] ? Connexion : ss depuis 192.168.230.1
+[2026-01-03 16:58:23] ? Déconnexion : ss
+[2026-01-03 16:58:23] ? Client déconnecté (Clients connectés : 2)
+[2026-01-03 16:58:38] ? Déconnexion : sami
+[2026-01-03 16:58:38] ? Client déconnecté (Clients connectés : 1)
+[2026-01-03 16:58:41] ? Déconnexion : atlas
+[2026-01-03 16:58:41] ? Client déconnecté (Clients connectés : 0)
+[2026-01-05 16:24:16] ? Serveur démarré sur le port 55555
+[2026-01-05 16:25:24] ? Serveur démarré sur le port 55555
+[2026-01-05 16:26:41] ? Connexion : atlas depuis 192.168.230.1
+[2026-01-05 16:26:41] ? Nouvelle connexion depuis 192.168.230.1 (Clients connectés : 1)
+[2026-01-05 16:26:57] ? Nouvelle connexion depuis 192.168.230.1 (Clients connectés : 2)
+[2026-01-05 16:26:57] ? Connexion : sami depuis 192.168.230.1
+[2026-01-05 16:27:41] ? Déconnexion : atlas
+[2026-01-05 16:27:41] ? Client déconnecté (Clients connectés : 1)
+[2026-01-05 16:27:46] ? Déconnexion : sami
+[2026-01-05 16:27:46] ? Client déconnecté (Clients connectés : 0)
+[2026-01-06 09:48:17] Serveur démarré sur le port 55555
