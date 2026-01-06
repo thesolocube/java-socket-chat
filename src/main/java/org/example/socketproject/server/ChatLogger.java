@@ -7,12 +7,6 @@ import java.io.PrintWriter;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-/**
- * Système de logging pour enregistrer tous les événements et messages du serveur.
- * Les logs sont sauvegardés dans le dossier "logs" :
- * - server.log : événements du serveur (démarrage, connexions, déconnexions, erreurs)
- * - messages.log : tous les messages échangés entre les utilisateurs
- */
 public class ChatLogger {
     private static final String LOGS_DIR = "logs";
     private static final String SERVER_LOG_FILE = LOGS_DIR + File.separator + "server.log";
@@ -46,9 +40,7 @@ public class ChatLogger {
         return instance;
     }
     
-    /**
-     * Enregistre un événement du serveur (démarrage, connexions, déconnexions, erreurs)
-     */
+
     public void logServerEvent(String event) {
         String timestamp = LocalDateTime.now().format(DATE_FORMATTER);
         String logEntry = String.format("[%s] %s", timestamp, event);
@@ -113,6 +105,7 @@ public class ChatLogger {
         }
     }
 }
+
 
 
 
