@@ -4,11 +4,9 @@ import java.io.*;
 import java.net.Socket;
 
 public class ClientSocket {
-
     private Socket socket;
     private BufferedReader in;
     private PrintWriter out;
-
     public void connect(String ip, int port) throws IOException {
         socket = new Socket(ip, port);
         in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
@@ -27,3 +25,4 @@ public class ClientSocket {
         socket.close();
     }
 }
+
